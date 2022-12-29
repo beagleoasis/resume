@@ -19,7 +19,7 @@
 
 국내 제조사 소싱 플랫폼 [메이커빌](https://www.makervil.com/index.do) 백엔드 개발
 + 견적의뢰 게시판 구현
-+ Linux 서버 기반 AWS 관리
++ Linux 기반 AWS 운영서버 관리
 
 국내 제조 상품 쇼핑몰 [메이커갤러리](https://makergallery.co.kr/mw/main/index.do) 백엔드 개발
 + 소셜 로그인(네이버,카카오) API 연동 회원가입/로그인 구현
