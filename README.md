@@ -12,6 +12,8 @@
 + blog : https://tears-of-debugging.tistory.com/
 + 취미 : 헬스, 여행, 등산
 
+&nbsp;
+&nbsp;
 
 # 경력
 
@@ -36,8 +38,8 @@
 ---
 ### 칸타TNS코리아(2019.03 ~ 2019.06, 마케팅 & 리서치팀 인턴)
 
-
-
+&nbsp;
+&nbsp;
 
 # 사용 기술
 
@@ -60,7 +62,8 @@ Server
 +SVN
 + Git/Github
 
-
+&nbsp;
+&nbsp;
 
 # 프로젝트
 
