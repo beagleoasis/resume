@@ -49,8 +49,8 @@ Back-end
 + JPA
 
 Database
-+MySQL
-+Oracle
++ MySQL
++ Oracle
 
 Front-end
 + JavaScript
@@ -59,7 +59,6 @@ Server
 + AWS cloud
 
 ETC
-
 + REST API
 + SVN
 + Git/Github
