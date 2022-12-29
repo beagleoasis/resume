@@ -67,6 +67,9 @@ Server
 
 # 프로젝트
 
+<img width="1400" alt="image" src="https://user-images.githubusercontent.com/73637960/209950172-e068081f-5329-426e-9633-6046646dbff5.png">
+
+
 [MBTI test by People](https://mbtitestbypeople.link/mbtiTest)
 
 + 기간 : 2022.11.28 ~ 2022.12.29
