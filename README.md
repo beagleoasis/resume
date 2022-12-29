@@ -66,7 +66,9 @@ Server
 
 [MBTI test by People](https://mbtitestbypeople.link/mbtiTest)
 
-
++ 기간 : 2022.11.28 ~ 2022.12.29
++ 소개 : 유저가 작성한 MBTI의 특징들을 랜덤으로 추출해 보여주는 서비스
++ 사용 기술 : Spring boot, Spring framework, Java 8.0, JPA, OAuth2.0, Spring Security, AWS Cloud, Linux Server, MySQL8.0
 
 
 
