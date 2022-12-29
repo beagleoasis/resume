@@ -76,6 +76,7 @@ ETC
 # 프로젝트
 
 #### [MBTI test by People](https://mbtitestbypeople.link/mbtiTest)
+#### [코드 링크](https://github.com/beagleoasis/mbti)
 
 <img width="1400" alt="image" src="https://user-images.githubusercontent.com/73637960/209950172-e068081f-5329-426e-9633-6046646dbff5.png">
 
