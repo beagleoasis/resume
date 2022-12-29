@@ -19,18 +19,18 @@
 
 ### 메이커빌(2021.06 ~ 현재, 개발팀 백엔드 개발자)
 
-국내 제조사 소싱 플랫폼 [메이커빌](https://www.makervil.com/index.do) 백엔드 개발
+1.국내 제조사 소싱 플랫폼 [메이커빌](https://www.makervil.com/index.do) 백엔드 개발
 (2022.05 ~ 2022.12)
 + 견적의뢰 게시판 구현
 + Linux 기반 AWS 운영서버 관리
 + 메인, 제조사 검색, 마이페이지 리뉴얼
 
-국내 제조 상품 쇼핑몰 [메이커갤러리](https://makergallery.co.kr/mw/main/index.do) 안드로이드 앱 개발
+2.국내 제조 상품 쇼핑몰 [메이커갤러리](https://makergallery.co.kr/mw/main/index.do) 안드로이드 앱 개발
 (2022.01 ~ 2022.03)
 + 안드로이드 코틀린을 활용한 웹뷰 개발
 + 이니시스 결제 모듈 모바일 연동 작업
 
-국내 제조 상품 쇼핑몰 [메이커갤러리](https://makergallery.co.kr/mw/main/index.do) 백엔드 개발
+3.국내 제조 상품 쇼핑몰 [메이커갤러리](https://makergallery.co.kr/mw/main/index.do) 백엔드 개발
 (2021.06 ~ 2021.12)
 + 소셜 로그인(네이버,카카오) API 연동 회원가입/로그인 구현
 + 스프링 스케줄러를 이용한 휴면 계정 및 적립 포인트 관리 구현
