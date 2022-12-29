@@ -58,7 +58,8 @@ Front-end
 Server
 + AWS cloud
 
-버전 관리
+ETC
++REST API
 +SVN
 + Git/Github
 
