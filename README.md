@@ -41,8 +41,33 @@
 
 # 사용 기술
 
+Back-end
++ Java 8.0
++ Spring framework
++ JPA
+
+Database
++MySQL
++Oracle
+
+Front-end
++ JavaScript
+
+Server
++ AWS cloud
+
+버전 관리
++SVN
++ Git/Github
+
 
 
 # 프로젝트
+
+[MBTI test by People](https://mbtitestbypeople.link/mbtiTest)
+
+
+
+
 
 
