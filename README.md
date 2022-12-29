@@ -59,8 +59,9 @@ Server
 + AWS cloud
 
 ETC
-+REST API
-+SVN
+
++ REST API
++ SVN
 + Git/Github
 
 &nbsp;
