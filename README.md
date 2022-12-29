@@ -76,6 +76,18 @@ ETC
 + 소개 : 유저가 작성한 MBTI의 특징들을 랜덤으로 추출해 보여주는 서비스
 + 사용 기술 : Spring boot, Spring framework, Java 8.0, JPA, REST API, OAuth2.0, Spring Security, AWS Cloud, Linux Server, MySQL8.0
 
+&nbsp;
+&nbsp;
 
+# 학력 사항
+
+### 한양대학교(2013.03 ~ 2019.02, 국어국문학/행정학 부전공 학사 졸업, 4.03/4.5)
+
+&nbsp;
+&nbsp;
+
+# 기타 사항
+
+### 공군 병장 만기 전역(2010.05 ~ 2012.06)
 
 
