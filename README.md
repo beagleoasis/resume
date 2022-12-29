@@ -6,6 +6,12 @@
 
 개발자는 시대의 흐름에 맞춰, 평생 새로운 것을 배워야하는 직업이라고 생각합니다. 그래서 항상 경험해보지 못한 것에 호기심을 갖고 배우고 경험하려고 노력하고 있습니다.
 
++ 이름 : 김정민
++ Email : jmkim90world@gmail.com
++ GitHub : https://github.com/beagleoasis
++ blog : https://tears-of-debugging.tistory.com/
++ 취미 : 헬스, 여행, 등산
+
 
 
 # 경력
