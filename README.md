@@ -12,7 +12,6 @@
 개인 토이 프로젝트에서 실무에서 사용하지 않았던 Spring boot, REST API, JPA 등을 사용해 AWS로 배포한 경험이 있습니다. 
 또한 학습한 내용을 정리하는 기술 블로그를 운영하고 있습니다.
 
-
 + 이름 : 김정민
 + Email : jmkim90world@gmail.com
 + GitHub : https://github.com/beagleoasis
