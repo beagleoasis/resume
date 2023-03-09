@@ -31,12 +31,12 @@
 + 제조사 정보 검색 페이지 구현
 + Linux 기반으로 구축된 AWS 실서버 유지보수
 
-2. 국내 제조 상품 쇼핑몰 [메이커갤러리](https://makergallery.co.kr/mw/main/index.do) 안드로이드 앱 개발
+2. 국내 중소 제조사 상품 쇼핑몰 [메이커갤러리](https://makergallery.co.kr/mw/main/index.do) 안드로이드 앱 개발
 (2022.02 ~ 2022.04)
 + 쇼핑몰 모바일 앱 출시를 위한 코틀린 웹 뷰 단독 개발
 + 쇼핑몰 내 이니시스 결제 API 모바일 앱 연동 작업
 
-3. 국내 제조 상품 쇼핑몰 [메이커갤러리](https://makergallery.co.kr/mw/main/index.do) 백엔드 개발
+3. 국내 중소 제조사 상품 쇼핑몰 [메이커갤러리](https://makergallery.co.kr/mw/main/index.do) 백엔드 개발
 (2021.06 ~ 2022.01)
 + OAuth2.0, Spring Security를 이용한 소셜 로그인 구현
 + 스프링 스케줄러를 이용한 쇼핑몰 휴면 계정/포인트/쿠폰 관리 구현
