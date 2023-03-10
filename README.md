@@ -83,7 +83,7 @@ ETC
 &nbsp;
 &nbsp;
 
-# 프로젝트
+# 사이드 프로젝트
 
 #### [MBTI test by People](https://mbtitestbypeople.link/mbtiTest)
 #### [코드 링크](https://github.com/beagleoasis/mbti)
