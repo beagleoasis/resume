@@ -69,6 +69,7 @@ Database
 
 Front-end
 + JavaScript
++ JSP
 + Thymeleaf
 
 Server
