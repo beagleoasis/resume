@@ -1,5 +1,5 @@
 # 책임감, 친화력, 그리고 꾸준함
-<img src="https://user-images.githubusercontent.com/73637960/224197950-a994ab1e-e3c6-4dfd-93d7-b15b1d9cf050.jpeg"  width="150" height="200"/>
+<img src="https://user-images.githubusercontent.com/73637960/224197950-a994ab1e-e3c6-4dfd-93d7-b15b1d9cf050.jpeg"  width="200" height="250"/>
 
 안녕하세요. 2년 차 웹 개발자 김정민입니다.
 
