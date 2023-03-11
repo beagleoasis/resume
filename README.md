@@ -4,12 +4,12 @@
 안녕하세요. 2년 차 웹 개발자 김정민입니다.
 
 '사람과 사람을 연결하는 일'에 관심이 많아 여행사에서 근무했고, 
-현재는 웹 개발자로서 '사람 간 소통을 구현하는 즐거움'을 느끼고 있습니다.
+현재는 웹 개발자로서 '소통의 창을 구현하는 즐거움'을 느끼고 있습니다.
 
 '꾸준한 학습'의 중요성을 느끼고 저의 부족한 부분을 채워나가려고 노력하고 있습니다. 
 퇴근 후 자기 계발로 공부했던 Kotlin을 활용해 실무에서 안드로이드 웹 뷰 프로젝트를 진행했고, 
-개인 토이 프로젝트에서 실무에서 사용하지 않았던 Spring boot, REST API, JPA 등을 사용해 AWS로 배포한 경험이 있습니다. 
-또한 학습한 내용을 정리하는 기술 블로그를 운영하고 있습니다.
+개인 토이 프로젝트에서는 이전에 사용해 보지 않았던 Spring boot, REST API, JPA 등을 사용해 AWS의 EC2 환경에서 Docker로 배포한 경험이 있습니다. 
+또한 학습한 내용을 정리하는 기술 블로그를 운영해 오고 있습니다.
 
 + 이름 : 김정민
 + Email : jmkim90world@gmail.com
@@ -77,6 +77,7 @@ Server
 
 ETC
 + REST API
++ Docker
 + SVN
 + Git/Github
 
@@ -92,7 +93,7 @@ ETC
 
 + 기간 : 2022.11.28 ~ 2022.12.29
 + 소개 : 유저가 작성한 MBTI의 특징들을 랜덤으로 추출해 보여주는 서비스
-+ 사용 기술 : Spring boot, Spring framework, Java 8.0, JPA, REST API, OAuth2.0, Spring Security, AWS Cloud, Linux Server, JavaScript, Thymeleaf, MySQL8.0
++ 사용 기술 : Spring boot, Spring framework, Java 8.0, JPA, REST API, OAuth2.0, Spring Security, AWS Cloud, Linux Server, Docker, JavaScript, Thymeleaf, MySQL8.0
 + 핵심 : OAuth2.0과 Spring Security를 이용한 소셜 로그인 API 연동, JPA를 활용한 게시판 시스템 구축, REST API 설계
 
 &nbsp;
