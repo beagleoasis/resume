@@ -81,14 +81,14 @@ ETC
   + SQL문 리팩토링을 통한 검색 속도 개선
 + Linux 기반으로 구축된 AWS 서버 유지보수
   + Swap 메모리 생성을 통한 Out of Memory 문제 개선
-
+---
 ### 국내 중소 제조사 상품 쇼핑몰 [메이커갤러리](https://makergallery.co.kr/mw/main/index.do) 안드로이드 앱 개발, 2022.02 ~ 2022.04
 #### *메이커갤러리(MakerGallery)*
 + 쇼핑몰 모바일 앱 출시를 위한 웹 뷰 서비스 단독 개발
   + 기존 쇼핑몰 사이트와의 호환성을 위해 안드로이드 8.0버전(Oreo)으로 개발
 + 이니시스 API를 이용한 모바일 앱 결제 시스템 구축
   + PC 버전 리턴 값을 모바일 버전으로 적용할 수 있도록 변환 처리
-
+---
 ### 국내 중소 제조사 상품 쇼핑몰 [메이커갤러리](https://makergallery.co.kr/mw/main/index.do) 웹 개발, 2021.06 ~ 2022.01
 #### *메이커갤러리(MakerGallery)*
 + OAuth2.0/Spring Security와 소셜 로그인 API(카카오, 네이버)를 이용한 로그인 서비스 구현
