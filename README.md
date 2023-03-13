@@ -53,9 +53,9 @@ ETC
 ### 메이커빌, 2021.06 ~ 2023.02
 #### *개발팀, 웹 개발자*
 + 국내 10만 중소 제조사 소싱 플랫폼 & 쇼핑몰 스타트업(15 ~ 20명, 개발팀 2~6명)
-+ 제조사 간 견적 중계 플랫폼 개발
-+ 제조사 상품 쇼핑몰 하이브리드 앱 개발
-+ 제조사 상품 쇼핑몰 웹 서비스 개발
++ Spring Framework 기반 제조사 간 견적 중계 플랫폼 개발
++ Kotlin Web view 기반 제조사 상품 쇼핑몰 하이브리드 앱 개발
++ Spring Framework 기반 제조사 상품 쇼핑몰 웹 서비스 개발
 + AWS 서버 유지보수
 + 사용 기술 : Spring Framework, Java8.0, OAuth2.0, Spring Security, JSP, Javascript, MySQL, Linux, AWS, SVN, Kotlin
 
