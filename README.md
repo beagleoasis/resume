@@ -83,7 +83,6 @@ ETC
 + OAuth2.0/Spring Security와 소셜 로그인 API(카카오, 네이버)를 이용한 로그인 서비스 구현
   + 플랫폼 방문 유저의 회원 전환율 개선
 + Linux 기반으로 구축된 AWS 서버 유지보수
-  + Swap 메모리 생성을 통한 Out of Memory 문제 개선
 ---
 ### 국내 중소 제조사 상품 쇼핑몰 [메이커갤러리](https://makergallery.co.kr/mw/main/index.do) 안드로이드 앱 개발
 ### 2022.02 ~ 2022.04
