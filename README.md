@@ -60,11 +60,11 @@ ETC
 + 사용 기술 : Spring Framework, Java8.0, OAuth2.0, Spring Security, JSP, Javascript, MySQL, Linux, AWS, SVN, Kotlin
 
 ---
-### 롯데JTB, 2019.07 ~ 2020.03
+### 롯데JTB(비개발), 2019.07 ~ 2020.03
 #### *크루즈 상품기획팀, 사원*
 
 ---
-### 칸타TNS코리아, 2019.03 ~ 2019.06
+### 칸타TNS코리아(비개발), 2019.03 ~ 2019.06
 #### *마케팅&리서치팀, 인턴*
 
 &nbsp;
