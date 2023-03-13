@@ -57,7 +57,7 @@ ETC
 + Kotlin Web view 기반 제조사 상품 쇼핑몰 하이브리드 앱 개발
 + Spring Framework 기반 제조사 상품 쇼핑몰 웹 서비스 개발
 + AWS 서버 유지보수
-+ 사용 기술 : Spring Framework, Java8.0, OAuth2.0, Spring Security, JSP, Javascript, MySQL, Linux, AWS, SVN, Kotlin
++ 사용 기술 : Spring Framework, Java8.0, OAuth2.0, Spring Security, REST API, JSP, Javascript, MySQL, Linux, AWS, SVN, Kotlin
 
 ---
 ### 롯데JTB(비개발), 2019.07 ~ 2020.03
