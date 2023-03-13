@@ -38,7 +38,7 @@ Front-end
 + Thymeleaf
 
 Server
-+ AWS cloud
++ AWS
 
 ETC
 + REST API
@@ -112,7 +112,7 @@ ETC
 
 + 기간 : 2022.11.28 ~ 2022.12.29
 + 소개 : 유저가 작성한 MBTI의 특징들을 랜덤으로 추출해 보여주는 서비스
-+ 사용 기술 : Spring boot, Spring framework, Java 8.0, JPA, REST API, OAuth2.0, Spring Security, AWS Cloud, Linux Server, Docker, JavaScript, Thymeleaf, MySQL8.0
++ 사용 기술 : Spring boot, Spring framework, Java 8.0, JPA, REST API, OAuth2.0, Spring Security, AWS, Linux Server, Docker, JavaScript, Thymeleaf, MySQL8.0
 + 핵심  
   + OAuth2.0과 Spring Security를 이용한 소셜 로그인 API 연동
   + JPA를 활용한 게시판 시스템 구축
