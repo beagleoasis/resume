@@ -81,7 +81,7 @@ ETC
 + 제조사 및 제품 정보 검색 서비스 개발
   + SQL문 리팩토링을 통한 검색 속도 개선
 + OAuth2.0/Spring Security와 소셜 로그인 API(카카오, 네이버)를 이용한 로그인 서비스 구현
-  + 플랫폼 방문 유저의 회원 전환율 개선
+  + 플랫폼 방문 유저의 회원 전환율 개선(기존 대비 약 50% 증가)
 + REST API 설계 도입
 + Linux 기반으로 구축된 AWS 서버 유지보수
 ---
@@ -104,7 +104,7 @@ ETC
 &nbsp;
 &nbsp;
 
-# 사이드 프로젝트
+# 개인 사이드 프로젝트
 
 #### [MBTI test by People](https://mbtitestbypeople.link/mbtiTest)
 #### [코드 링크](https://github.com/beagleoasis/mbti)
