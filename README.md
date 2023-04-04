@@ -53,9 +53,9 @@ ETC
 ### 메이커빌, 2021.06 ~ 2023.02
 #### *개발팀, 웹 백엔드 개발자*
 + 국내 10만 중소 제조사 소싱 플랫폼 & 쇼핑몰 스타트업(15 ~ 20명, 개발팀 2~6명)
-+ Spring Framework 기반 제조사 간 견적 중계 플랫폼 개발
-+ Kotlin Web view 기반 제조사 상품 쇼핑몰 하이브리드 앱 개발
-+ Spring Framework 기반 제조사 상품 쇼핑몰 웹 서비스 개발
++ Spring Framework 기반 제조사 간 견적 중계 플랫폼 개발(2~6명)
++ Kotlin Web view 기반 제조사 상품 쇼핑몰 하이브리드 앱 개발(1명)
++ Spring Framework 기반 제조사 상품 쇼핑몰 웹 서비스 개발(6명)
 + AWS 서버 유지보수
 + 사용 기술 : Spring Framework, Java8.0, OAuth2.0, Spring Security, REST API, JSP, Javascript, MySQL, Linux, AWS, SVN, Kotlin
 
@@ -72,7 +72,7 @@ ETC
 
 # 프로젝트
 
-### 국내 10만 중소 제조사 소싱 플랫폼 메이커빌 서비스 개발(2~6명)
+### 국내 10만 중소 제조사 소싱 플랫폼 메이커빌 서비스 개발
 ### 2022.05 ~ 2023.02
 + 제조사에 제품 생산 의뢰를 할 수 있는 견적 의뢰 서비스 개발
   + Spring과 JSP를 사용한 CRUD 의뢰 서비스 개발
@@ -85,14 +85,14 @@ ETC
 + REST API 설계 도입
 + Linux 기반으로 구축된 AWS 서버 유지보수
 ---
-### 국내 중소 제조사 상품 쇼핑몰 [메이커갤러리](https://makergallery.co.kr/mw/main/index.do) 안드로이드 앱 개발(1명)
+### 국내 중소 제조사 상품 쇼핑몰 [메이커갤러리](https://makergallery.co.kr/mw/main/index.do) 안드로이드 앱 개발
 ### 2022.02 ~ 2022.04
 + 쇼핑몰 모바일 앱 출시를 위한 웹 뷰 서비스 단독 개발
   + 기존 쇼핑몰 사이트와의 호환성을 위해 안드로이드 8.0버전(Oreo)으로 개발
 + 이니시스 API를 이용한 모바일 앱 결제 시스템 구축
   + PC 버전 리턴 값을 모바일 버전으로 적용할 수 있도록 변환 처리
 ---
-### 국내 중소 제조사 상품 쇼핑몰 [메이커갤러리](https://makergallery.co.kr/mw/main/index.do) 웹 개발(6명)
+### 국내 중소 제조사 상품 쇼핑몰 [메이커갤러리](https://makergallery.co.kr/mw/main/index.do) 웹 개발
 ### 2021.06 ~ 2022.01
 + OAuth2.0/Spring Security와 소셜 로그인 API(카카오, 네이버)를 이용한 로그인 서비스 구현
 + Spring scheduler를 이용한 백오피스 유저 자동 관리 시스템(적립 포인트, 쿠폰, 휴면 계정 관리) 개발
