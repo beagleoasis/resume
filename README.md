@@ -59,7 +59,7 @@ ETC
 + Kotlin Web view 기반 제조사 상품 쇼핑몰 하이브리드 앱 개발(1명)
 + Spring Framework 기반 제조사 상품 쇼핑몰 웹 서비스 개발(6명)
 + AWS 서버 유지보수
-+ 사용 기술 : Spring Framework, Java8.0, OAuth2.0, Spring Security, REST API, JSP, Javascript, MySQL, Linux, AWS, SVN, Kotlin
++ 사용 기술 : Spring Framework(4.2.9), Java8.0, OAuth2.0, Spring Security, REST API, JSP, Javascript, MySQL, Linux, AWS, SVN, Kotlin
 
 ---
 ### 롯데JTB(비개발), 2019.07 ~ 2020.03
@@ -115,7 +115,7 @@ ETC
 
 + 기간 : 2022.11.28 ~ 2022.12.29
 + 소개 : 유저가 작성한 MBTI의 특징들을 랜덤으로 추출해 보여주는 서비스
-+ 사용 기술 : Spring boot, Spring framework, Java 8.0, JPA, REST API, OAuth2.0, Spring Security, AWS, Linux Server, Docker, JavaScript, Thymeleaf, MySQL8.0
++ 사용 기술 : Spring boot(2.7.6), Spring framework, Java 8.0, JPA, REST API, OAuth2.0, Spring Security, AWS, Linux Server, Docker, JavaScript, Thymeleaf, MySQL8.0
 + 핵심  
   + OAuth2.0과 Spring Security를 이용한 소셜 로그인 API 연동
   + JPA를 활용한 게시판 시스템 구축
